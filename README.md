@@ -3,3 +3,5 @@
 
 #Table of Contents
 1. Kaggle Housing Project: Famous challenge on Kaggle to predict housing prices with the Ames dataset. I used Lasso regression to achieve an R^2 of .94
+
+2. Jugos Project: Class project in Tableau showing my data visualization skills.
